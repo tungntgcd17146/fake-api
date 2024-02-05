@@ -1,5 +1,62 @@
 {
-  "products": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "products": [
+    {
+      "id": 1,
+      "productName": "Product 1",
+      "productCategory": "Category 1",
+      "productPrice": 100,
+      "productRating": 4.5,
+      "productRatingCount": 100
+    },
+    {
+      "id": 2,
+      "productName": "Product 2",
+      "productCategory": "Category 2",
+      "productPrice": 0,
+      "productRating": 3.5,
+      "productRatingCount": 200
+    },
+    {
+      "id": 3,
+      "productName": "Product 3",
+      "productCategory": "Category 3",
+      "productPrice": 300,
+      "productRating": 2.5,
+      "productRatingCount": 300
+    },
+    {
+      "id": 4,
+      "productName": "Product 4",
+      "productCategory": "Category 4",
+      "productPrice": 400,
+      "productRating": 1.5,
+      "productRatingCount": 400
+    },
+    {
+      "id": 5,
+      "productName": "Product 5",
+      "productCategory": "Category 5",
+      "productPrice": 500,
+      "productRating": 5,
+      "productRatingCount": 500
+    },
+    {
+      "id": 6,
+      "productName": "Product 6",
+      "productCategory": "Category 6",
+      "productPrice": 0,
+      "productRating": 4,
+      "productRatingCount": 600
+    },
+    {
+      "id": 7,
+      "productName": "Product 6",
+      "productCategory": "Category 6",
+      "productPrice": 0,
+      "productRating": 4,
+      "productRatingCount": 600
+    }
+  ],
   "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
   "users": [{ "id": 1, "name": "typicode" }]
 }
