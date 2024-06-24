@@ -291,22 +291,7 @@
     {
       "id": 1,
       "email": "user1@gmail.com",
-      "password": "User1@123"
-    },
-    {
-      "id": 2,
-      "email": "user2@gmail.com",
-      "password": "User2@123"
-    },
-    {
-      "id": 3,
-      "email": "user3@gmail.com",
-      "password": "User3@123"
-    },
-    {
-      "id": 4,
-      "email": "tuntun@gmail.com",
-      "password": "Tun@123"
+      "password": "$2a$12$5WkW8o32N4T.QcNDBlerKOzMLLvdAGoKF1AjI9SCPcslM2I.VXrxG"
     }
   ]
 }
