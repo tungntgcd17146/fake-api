@@ -290,6 +290,7 @@
   "auth": [
     {
       "id": 1,
+      "name": "user1",
       "email": "user1@gmail.com",
       "password": "$2a$12$5WkW8o32N4T.QcNDBlerKOzMLLvdAGoKF1AjI9SCPcslM2I.VXrxG"
     }
